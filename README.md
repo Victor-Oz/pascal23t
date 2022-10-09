@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pascal23t
 - 👀 I’m interested in learning cloud engineering
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything really
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me on my linkedin
 
 <!---
